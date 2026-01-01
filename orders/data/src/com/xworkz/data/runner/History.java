@@ -1,28 +1,27 @@
-package com.xworkz.employee.external;
+package com.xworkz.data.runner;
 
 import com.mysql.cj.jdbc.Driver;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 
-public class EmployeeRunner {
+
+public class History {
     public static void main(String[] args) {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            String url="jdbc:mysql://localhost:3306/Employee_db";
+            String url="jdbc:mysql://localhost:3306/customer_db";
             String username="root";
             String password="Ammu@5182603";
-            String query="insert into employee_table values(2,'Nandu')";
+            String query="select * from customer_table";
             Connection connection=DriverManager.getConnection(url,username,password);
             if(connection!=null){
-                System.out.println("employee databse ");
+                System.out.println("Updating the customers data ");
             }
             Statement statement=connection.createStatement();
-            int rows=statement.executeUpdate(query);
-            if(rows==1) {
-                System.out.println(rows);
+            ResultSet resultSet=statement.executeQuery(query);
+            while(resultSet.next()){
+                System.out.println(resultSet.getString(1)+"\t"+resultSet.getString(2)+"  \t"+resultSet.getString(3)
+                        +"\t"+resultSet.getString(4)+"\t"+resultSet.getString(5));
             }
         } catch (ClassNotFoundException e) {
             e.printStackTrace();

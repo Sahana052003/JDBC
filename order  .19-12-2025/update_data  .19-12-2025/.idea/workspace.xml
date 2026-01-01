@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a1dafe0-e8ce-4ca9-8518-778dd56a34c4" name="Changes" comment="init commit" />
+    <list default="true" id="4a1dafe0-e8ce-4ca9-8518-778dd56a34c4" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/../../orders/data/data.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../orders/items/items.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../orders/orders.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../employee/src/com/xworkz/employee/external/EmployeeRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../employee/src/com/xworkz/employee/external/EmployeeRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../movie/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../movie/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../read .19-12-2025/src/com/xworkz/read/name/Products.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../read .19-12-2025/src/com/xworkz/read/name/Products.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../update .19-12-2025/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../update .19-12-2025/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../update .19-12-2025/src/com/xworkz/update/database/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../update .19-12-2025/src/com/xworkz/update/database/Customer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,40 +31,53 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Sahana52003"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sahana52003&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Sahana52003/JDBC.git",
-    "accountId": "d1c79502-9486-4b81-bdb2-99bda2d902cd"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sahana52003/JDBC.git&quot;,
+    &quot;accountId&quot;: &quot;d1c79502-9486-4b81-bdb2-99bda2d902cd&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="374SEWXuGR0eSFLXUMg2V9iTRmj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/admin/Desktop/JDBC/order  .19-12-2025/update_data  .19-12-2025/src/Main.java",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/admin/Desktop/JDBC/order  .19-12-2025/update_data  .19-12-2025/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="update_data  .19-12-2025" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="update_data  .19-12-2025" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4a1dafe0-e8ce-4ca9-8518-778dd56a34c4" name="Changes" comment="" />

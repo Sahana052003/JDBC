@@ -21,7 +21,7 @@ public class Customer {
             String query="update order_table set oder_item='SmartWatch' where order_id = 'O005'";
             Connection connection=DriverManager.getConnection(url,username,password);
             if(connection!=null){
-                System.out.println("Updating the customer data ");
+                System.out.println("Updating the customers data ");
             }
             Statement statement=connection.createStatement();
             int rows=statement.executeUpdate(query);
