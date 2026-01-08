@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JDBC.iml" filepath="$PROJECT_DIR$/.idea/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/car/bike/bike.iml" filepath="$PROJECT_DIR$/car/bike/bike.iml" />
+      <module fileurl="file://$PROJECT_DIR$/car/car.iml" filepath="$PROJECT_DIR$/car/car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orders/data/data.iml" filepath="$PROJECT_DIR$/orders/data/data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rapidod/delete/delete.iml" filepath="$PROJECT_DIR$/rapidod/delete/delete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/employee/employee.iml" filepath="$PROJECT_DIR$/employee/employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orders/items/items.iml" filepath="$PROJECT_DIR$/orders/items/items.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order  .19-12-2025/order/order.iml" filepath="$PROJECT_DIR$/order  .19-12-2025/order/order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order  .19-12-2025/order  .19-12-2025.iml" filepath="$PROJECT_DIR$/order  .19-12-2025/order  .19-12-2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orders/orders.iml" filepath="$PROJECT_DIR$/orders/orders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rapido/rapido.iml" filepath="$PROJECT_DIR$/rapido/rapido.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rapidod/rapidod.iml" filepath="$PROJECT_DIR$/rapidod/rapidod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rapidod/read/read.iml" filepath="$PROJECT_DIR$/rapidod/read/read.iml" />
+      <module fileurl="file://$PROJECT_DIR$/read .19-12-2025/read .19-12-2025.iml" filepath="$PROJECT_DIR$/read .19-12-2025/read .19-12-2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rapidod/update/update.iml" filepath="$PROJECT_DIR$/rapidod/update/update.iml" />
+      <module fileurl="file://$PROJECT_DIR$/update .19-12-2025/update .19-12-2025.iml" filepath="$PROJECT_DIR$/update .19-12-2025/update .19-12-2025.iml" />
+    </modules>
+  </component>
+</project>

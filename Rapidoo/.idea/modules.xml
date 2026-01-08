@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Rapidoo.iml" filepath="$PROJECT_DIR$/Rapidoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rapidoinst/rapidoinst.iml" filepath="$PROJECT_DIR$/rapidoinst/rapidoinst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/read/read.iml" filepath="$PROJECT_DIR$/read/read.iml" />
+      <module fileurl="file://$PROJECT_DIR$/update/update.iml" filepath="$PROJECT_DIR$/update/update.iml" />
+    </modules>
+  </component>
+</project>

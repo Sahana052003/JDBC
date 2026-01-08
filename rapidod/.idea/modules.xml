@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/delete/delete.iml" filepath="$PROJECT_DIR$/delete/delete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rapidod.iml" filepath="$PROJECT_DIR$/rapidod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/read/read.iml" filepath="$PROJECT_DIR$/read/read.iml" />
+      <module fileurl="file://$PROJECT_DIR$/update/update.iml" filepath="$PROJECT_DIR$/update/update.iml" />
+    </modules>
+  </component>
+</project>
